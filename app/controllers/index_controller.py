@@ -7,4 +7,4 @@ class IndexController(ControllerBase):
     @staticmethod
     def get():
         name = "Mauricio AlarcoHildebrandt"
-        return render_template('index.html', name=name)
+        return render_template('/static/html/index.html', name=name)
