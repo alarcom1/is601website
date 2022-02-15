@@ -8,6 +8,16 @@ body {
     margin: 0;
 }
 
+/* red font for span */
+.red {
+  color: #ff0000;
+}
+
+/* make font bigger */
+.makebigger {
+  font-size: 120%;
+}
+
 /* Style the header */
 .header {
   background-color: #f1f1f1;
